@@ -1,2 +1,2 @@
-[molakhasaty_bot.zip](https://github.com/user-attachments/files/20867420/molakhasaty_bot.zip)
-# molakhasaty-bot
+# [molakhasaty_bot1.zip](https://github.com/user-attachments/files/20867562/molakhasaty_bot1.zip)
+bot
